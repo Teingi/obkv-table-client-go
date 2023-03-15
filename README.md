@@ -1,1 +1,0 @@
-# obkv-table-client-go
